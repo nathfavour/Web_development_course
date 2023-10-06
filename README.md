@@ -42,5 +42,4 @@ Links to a complete web development course
 41. [(426.6mb)25. FINAL PROJECT SmartBrain Back-End - Part 01.zip](https://mega.nz/file/QqtEXJxY#eBKhQR47p5WUH6RoFSY5nGbdMiR_ne1FcZXKFfe6Lo4)
 42. [(468.7mb)25. FINAL PROJECT SmartBrain Back-End - Part 02.zip](https://mega.nz/file/RiFWBazA#3BJes2ZkJ4gqjQRVildNV9Jdb1eOKJtmaacgcN-xrTk)
 43. [(380.7mb)26. Databases.zip](https://mega.nz/file/NyVkxRhK#LXUybyhFBvzk6G_Z5ngQSqas6bTo8ZYc5SeqvM4GUOI)
-44. [(658.8mb)27. FINAL PROJECT SmartBrain Back-End - Database.zip](https://mega.nz/file/lrkzwSqY#SJ9NJ_kMpN3pNOY-DVFAHY9MasDSHwP_aII9PGSK-hI)https://mega.nz/file/lrkzwSqY#SJ9NJ_kMpN3pNOY-DVFAHY9MasDSHwP_aII9PGSK-hI)
-   
+44. [(658.8mb)27. FINAL PROJECT SmartBrain Back-End - Database.zip](https://mega.nz/file/lrkzwSqY#SJ9NJ_kMpN3pNOY-DVFAHY9MasDSHwP_aII9PGSK-hI)
